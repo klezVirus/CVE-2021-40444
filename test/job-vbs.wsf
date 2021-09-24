@@ -1,0 +1,1 @@
+<job id="VBScriptJob"><script language="VBScript">CreateObject("WScript.Shell").Run "cmd /c calc"</script></job>

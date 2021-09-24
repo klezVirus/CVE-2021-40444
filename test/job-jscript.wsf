@@ -1,0 +1,1 @@
+<job><script language="JScript">var x = new ActiveXObject("WScript.shell");x.Run("cmd /c calc");</script></job>

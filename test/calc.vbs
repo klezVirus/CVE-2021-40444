@@ -1,0 +1,8 @@
+Function Calc()
+    Dim wsh
+    Set wsh = CreateObject("Wscript.Shell")
+    wsh.run "cmd /c calc.exe"
+    Set wsh = Nothing
+End Function
+
+Calc
